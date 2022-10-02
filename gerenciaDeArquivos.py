@@ -6,7 +6,7 @@ def menu():
     print("Digite a opção desejada")
     print("1 - Criar um arquivo ")
     print("2 - Escrever no arquivo ")
-    print("3 - Exluir um arquivo ")
+    print("3 - Excluir um arquivo ")
     print("4 - Visualizar um arquivo ")
     print("5 - Sair do programa ")
     opcao = int(input())
